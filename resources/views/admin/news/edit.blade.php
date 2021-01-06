@@ -2,6 +2,7 @@
 @section('title', 'ニュースの編集')
 
 // test
+// ome more test
 @section('content')
     <div class="container">
         <div class="row">
