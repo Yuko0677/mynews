@@ -1,6 +1,7 @@
 @extends('layouts.admin')
 @section('title', 'ニュースの編集')
 
+// test
 @section('content')
     <div class="container">
         <div class="row">
