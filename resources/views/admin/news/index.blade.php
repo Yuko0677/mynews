@@ -5,6 +5,9 @@
     <div class="container">
         <div class="row">
             <h2>ニュース一覧</h2>
+                <div class="col-md-12">
+                    <a href="..\", role="button" class="btn btn-primary"> ニュース画面</a>
+                </div>
         </div>
         <div class="row">
             <div class="col-md-4">
