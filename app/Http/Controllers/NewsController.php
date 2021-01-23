@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\HTML;
 
 // 追記
 //test
-//test
+//tes
 use App\News;
 
 class NewsController extends Controller
